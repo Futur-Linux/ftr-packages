@@ -1,0 +1,6 @@
+name: ftr-mixer
+ver: 1.0
+sha256: 7de6057c20240afb2783acdc8a0ec813f828332975ae8b9bd19c2130311f780e
+packagepath: ftr-mixer.tar.bz2
+size: 6798
+

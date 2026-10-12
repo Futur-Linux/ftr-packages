@@ -4,3 +4,27 @@ sha256: 7de6057c20240afb2783acdc8a0ec813f828332975ae8b9bd19c2130311f780e
 packagepath: ftr-mixer.tar.bz2
 size: 6798
 
+name: fastcompmgr
+ver: 1.0
+sha256: 1340d819690eb2252c8bf886f00b108c9c6924718c5eeae3c5f78bb12f8a333a
+packagepath: fastcompmgr.tar.bz2
+size: 21120
+
+name: ftr-brightness
+ver: 1.0
+sha256: 0031cb0e823b874b3bf3d0d85ffc8bf9a3779f591a246ea70cc1de4be41f25f4
+packagepath: ftr-brightness.tar.bz2
+size: 6077
+
+name: kernel
+ver: 1.0
+sha256: f46c54402ad49d494a8b0f965a3117183b58ac6d0f88e7642182f57fd1c6be25
+packagepath: kernel.tar.bz2
+size: 4104077
+
+name: limine
+ver: 1.0
+sha256: 1267ae7ba3ffa58c1ecb1a40da7cc6aa149b12107ba1258d5381af3bc58cf65e
+packagepath: limine.tar.bz2
+size: 167366
+

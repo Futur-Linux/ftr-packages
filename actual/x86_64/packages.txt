@@ -1,9 +1,3 @@
-name: ftr-mixer
-ver: 1.0
-sha256: 7de6057c20240afb2783acdc8a0ec813f828332975ae8b9bd19c2130311f780e
-packagepath: ftr-mixer.tar.bz2
-size: 6798
-
 name: fastcompmgr
 ver: 1.0
 sha256: 1340d819690eb2252c8bf886f00b108c9c6924718c5eeae3c5f78bb12f8a333a
@@ -15,6 +9,12 @@ ver: 1.0
 sha256: 0031cb0e823b874b3bf3d0d85ffc8bf9a3779f591a246ea70cc1de4be41f25f4
 packagepath: ftr-brightness.tar.bz2
 size: 6077
+
+name: ftr-mixer
+ver: 1.0
+sha256: 7de6057c20240afb2783acdc8a0ec813f828332975ae8b9bd19c2130311f780e
+packagepath: ftr-mixer.tar.bz2
+size: 6798
 
 name: kernel
 ver: 1.0

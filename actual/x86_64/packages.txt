@@ -26,7 +26,9 @@ name: limine
 ver: 1.0
 sha256: 1267ae7ba3ffa58c1ecb1a40da7cc6aa149b12107ba1258d5381af3bc58cf65e
 packagepath: limine.tar.bz2
-size: 167366name: openbox-themes
+size: 167366
+
+name: openbox-themes
 ver: 1.0
 sha256: 8d2517853bec5669a117b85f7d776665ce7c5581259e8d88bfe2525e683ec3e0
 packagepath: openbox-themes.tar.bz2

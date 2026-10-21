@@ -40,3 +40,9 @@ sha256: 565cd02f54435b82fce1392a0621a6d962974b3b6efd3511f5c80f64d95bc16f
 packagepath: openbox-themes.tar.bz2
 size: 1230
 
+name: tint2conf
+ver: 1.0
+sha256: df15764a9524c632c6d92ba04082f6a52fee8e1842c2d0a39237b7ba194b8e06
+packagepath: tint2conf.tar.bz2
+size: 165812
+

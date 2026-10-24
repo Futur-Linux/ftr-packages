@@ -46,3 +46,9 @@ sha256: 565cd02f54435b82fce1392a0621a6d962974b3b6efd3511f5c80f64d95bc16f
 packagepath: openbox-themes.tar.bz2
 size: 1230
 
+name: wpa_cute
+ver: 1.0
+sha256: 12b4c7a1ec7ea6c8723ce8253a74db741568ec97db8d6ba59bf728d20456cf77
+packagepath: wpa_cute.tar.bz2
+size: 414069
+

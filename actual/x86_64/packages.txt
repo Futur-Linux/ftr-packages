@@ -48,7 +48,7 @@ size: 1230
 
 name: wpa_cute
 ver: 1.0
-sha256: 3d26e51f23fef77e418f19fef965905d458d2bb9aa6e91e1e1397e20c3f649d4
+sha256: b1e428667cde0b7695a94cf18f747f9e0f226326b0221d98bc0b4b7d353d18df
 packagepath: wpa_cute.tar.bz2
-size: 424702
+size: 424881
 

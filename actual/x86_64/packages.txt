@@ -40,6 +40,12 @@ sha256: 58b30ee3fed351f2f9e75a647063db2f89a69afb54884596a6a8ac128b4b6772
 packagepath: notwaita-cursors.tar.bz2
 size: 2674006
 
+name: ntpd
+ver: 1.0
+sha256: 95bcdc8170a159021d770c4380acab41e291428f5efd4ab0997b5444880bb226
+packagepath: ntpd.tar.bz2
+size: 45397
+
 name: openbox-themes
 ver: 1.0
 sha256: 565cd02f54435b82fce1392a0621a6d962974b3b6efd3511f5c80f64d95bc16f

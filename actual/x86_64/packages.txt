@@ -16,6 +16,12 @@ sha256: 7de6057c20240afb2783acdc8a0ec813f828332975ae8b9bd19c2130311f780e
 packagepath: ftr-mixer.tar.bz2
 size: 6798
 
+name: ftr-xkbmap
+ver: 1.0
+sha256: d3962645835ff2e351716efffc346d36971a64cf2275b2226e7c26c73f8ff9be
+packagepath: ftr-xkbmap.tar.bz2
+size: 2843568
+
 name: gsimplecal
 ver: 1.0
 sha256: 4b4493a14140d568ee8d614e5a2d519a953699673052bfd08efbe83de5fbdc08

@@ -18,9 +18,9 @@ size: 6798
 
 name: ftr-xkbmap
 ver: 1.0
-sha256: d3962645835ff2e351716efffc346d36971a64cf2275b2226e7c26c73f8ff9be
+sha256: 895c68674135c992823e886d85173f32aa9e47f921b5bc65c7bdee13250eae40
 packagepath: ftr-xkbmap.tar.bz2
-size: 2843568
+size: 2843103
 
 name: gsimplecal
 ver: 1.0

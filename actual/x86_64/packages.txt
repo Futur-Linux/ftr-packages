@@ -16,6 +16,12 @@ sha256: 7de6057c20240afb2783acdc8a0ec813f828332975ae8b9bd19c2130311f780e
 packagepath: ftr-mixer.tar.bz2
 size: 6798
 
+name: ftr-settings-manager
+ver: 1.0
+sha256: 9e040837a3796ab91db57c67c2c821e8e1521c2e8f5c51ead139d9c64a264818
+packagepath: ftr-settings-manager.tar.bz2
+size: 2809367
+
 name: ftr-xkbmap
 ver: 1.0
 sha256: 895c68674135c992823e886d85173f32aa9e47f921b5bc65c7bdee13250eae40

@@ -40,6 +40,12 @@ sha256: f46c54402ad49d494a8b0f965a3117183b58ac6d0f88e7642182f57fd1c6be25
 packagepath: kernel.tar.bz2
 size: 4104077
 
+name: kernel-modules-7.2
+ver: 1.0
+sha256: 94f1677c49acdec3dd01364ab41a60baddac53076059a1bc8dd5279eb0bb6d6e
+packagepath: kernel-modules-7.2.tar.bz2
+size: 23069280
+
 name: limine
 ver: 1.0
 sha256: 1267ae7ba3ffa58c1ecb1a40da7cc6aa149b12107ba1258d5381af3bc58cf65e

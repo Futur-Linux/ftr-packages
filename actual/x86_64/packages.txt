@@ -42,9 +42,9 @@ size: 4104077
 
 name: kernel-modules-7.2
 ver: 1.0
-sha256: 94f1677c49acdec3dd01364ab41a60baddac53076059a1bc8dd5279eb0bb6d6e
+sha256: e8d7aebf086034022655ecfbcd03b4719f9a9af432d3f23fb3545cde0d3cfadf
 packagepath: kernel-modules-7.2.tar.bz2
-size: 23069280
+size: 19944564
 
 name: limine
 ver: 1.0

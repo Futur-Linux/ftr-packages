@@ -16,6 +16,12 @@ sha256: 7de6057c20240afb2783acdc8a0ec813f828332975ae8b9bd19c2130311f780e
 packagepath: ftr-mixer.tar.bz2
 size: 6798
 
+name: ftr-pkg
+ver: 1.0
+sha256: 0d219445acf8c69e7bcdf4099407eb39e18bb9fbf5a00ad4ed0175790770a0ec
+packagepath: ftr-pkg.tar.bz2
+size: 2516436
+
 name: ftr-settings-manager
 ver: 1.0
 sha256: 9e040837a3796ab91db57c67c2c821e8e1521c2e8f5c51ead139d9c64a264818
@@ -42,9 +48,9 @@ size: 4104077
 
 name: kernel-modules-7.2
 ver: 1.0
-sha256: e8d7aebf086034022655ecfbcd03b4719f9a9af432d3f23fb3545cde0d3cfadf
+sha256: 0a9e1d1a12a344a66f7c0e497e317fdddd30f45009c23462c993eaf8644ec743
 packagepath: kernel-modules-7.2.tar.bz2
-size: 19944564
+size: 21321347
 
 name: limine
 ver: 1.0

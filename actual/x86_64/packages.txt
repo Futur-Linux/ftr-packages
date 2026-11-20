@@ -10,6 +10,12 @@ sha256: 0031cb0e823b874b3bf3d0d85ffc8bf9a3779f591a246ea70cc1de4be41f25f4
 packagepath: ftr-brightness.tar.bz2
 size: 6077
 
+name: ftr-btmgr
+ver: 1.0
+sha256: 035e819bfdcaee76e71d96afb05636196c76e01f34578c08ea42b809274c3157
+packagepath: ftr-btmgr.tar.bz2
+size: 2830935
+
 name: ftr-mixer
 ver: 1.0
 sha256: 7de6057c20240afb2783acdc8a0ec813f828332975ae8b9bd19c2130311f780e
@@ -18,9 +24,9 @@ size: 6798
 
 name: ftr-pkg
 ver: 1.0
-sha256: 0d219445acf8c69e7bcdf4099407eb39e18bb9fbf5a00ad4ed0175790770a0ec
+sha256: cdc1cd1ad77fdfc6e7f25b0eae27666f473a4d661288de331a466aa9d829d07c
 packagepath: ftr-pkg.tar.bz2
-size: 2516436
+size: 2518207
 
 name: ftr-settings-manager
 ver: 1.0
@@ -48,9 +54,9 @@ size: 4104077
 
 name: kernel-modules-7.2
 ver: 1.0
-sha256: 0a9e1d1a12a344a66f7c0e497e317fdddd30f45009c23462c993eaf8644ec743
+sha256: c4e8752e947199befcd91fd05a300fa199b810618a399bf6da0584d6f8ad94a9
 packagepath: kernel-modules-7.2.tar.bz2
-size: 21321347
+size: 21320112
 
 name: limine
 ver: 1.0

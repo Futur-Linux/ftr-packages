@@ -76,6 +76,12 @@ sha256: 95bcdc8170a159021d770c4380acab41e291428f5efd4ab0997b5444880bb226
 packagepath: ntpd.tar.bz2
 size: 45397
 
+name: obamenu
+ver: 1.0
+sha256: 1abd503d0894dcafe83eabc0a619540cc5a50157b786320da0be4301a2e82e9b
+packagepath: obamenu.tar.bz2
+size: 183515
+
 name: openbox-themes
 ver: 1.0
 sha256: 565cd02f54435b82fce1392a0621a6d962974b3b6efd3511f5c80f64d95bc16f
